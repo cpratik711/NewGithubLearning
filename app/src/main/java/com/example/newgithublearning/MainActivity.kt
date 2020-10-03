@@ -7,6 +7,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val hello = "First pratik"
-    }
+        val hello = "First prati"
+        val second= " Coming this with me "
 }
+}
+
+
+
+
