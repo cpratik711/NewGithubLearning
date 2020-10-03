@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val hello = "First prati"
         val second= " Coming this with me "
+        val third ="This is third one"
 }
 }
 
